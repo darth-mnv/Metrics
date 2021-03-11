@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 #### Development
-###### Python | HTML | CSS | JavaScript | SQL
+Python | HTML | CSS | JavaScript | SQL
 
 #### Packages
-###### Numpy | Pandas | Matplotlib | Seaborn
+Numpy | Pandas | Matplotlib | Seaborn
 
 #### Algorithms
-###### K-means | Regression | Clustering | Classification
+K-means | Regression | Clustering | Classification
 
 📫 How to reach me: ...
 <!--
