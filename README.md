@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-#### Development
+Development<br/>
 Python | HTML | CSS | JavaScript | SQL
 
-#### Packages
+Packages<br/>
 Numpy | Pandas | Matplotlib | Seaborn
 
-#### Algorithms
+Algorithms<br/>
 K-means | Regression | Clustering | Classification
 
-#### Tools
+Tools<br/>
 VS Code | Jupyter | MySQL | Git | Figma | Overleaf | Microsoft Office (Word, PowerPoint, Excel, Outlook, OneNote) | To-Do | Tableau Desktop | Power BI Desktop | Grafana | Windows | Ubuntu
 
 📫 How to reach me: ...
