@@ -9,6 +9,9 @@ Numpy | Pandas | Matplotlib | Seaborn
 #### Algorithms
 K-means | Regression | Clustering | Classification
 
+#### Tools
+VS Code | Jupyter | MySQL | Git | Figma | Overleaf | Microsoft Office (Word, PowerPoint, Excel, Outlook, OneNote) | To-Do | Tableau Desktop | Power BI Desktop | Grafana | Windows | Ubuntu
+
 📫 How to reach me: ...
 <!--
 **Manav-SM/Manav-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
