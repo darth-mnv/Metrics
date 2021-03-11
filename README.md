@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### Development
+###### Python | HTML | CSS | JavaScript | SQL
+
+#### Packages
+###### Numpy | Pandas | Matplotlib | Seaborn
+
+#### Algorithms
+###### K-means | Regression | Clustering | Classification
+
+📫 How to reach me: ...
 <!--
 **Manav-SM/Manav-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
