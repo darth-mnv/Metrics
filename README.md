@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://github.com/
+[twitter]: https://github.com/
+[youtube]: https://github.com/
+[twitch]: https://github.com/
+[instagram]: https://github.com/
+[linkedin]: https://github.com/
+[npm]: https://github.com/
+[brad]: https://github.com/
