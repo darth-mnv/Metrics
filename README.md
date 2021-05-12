@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 👔 [linkedin][linkedin]
 
 
-[website]: https://github.com/
+[website]: https://mnvsm.pages.dev/
 [twitter]: https://github.com/
 [youtube]: https://github.com/
 [twitch]: https://github.com/
