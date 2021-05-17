@@ -24,7 +24,7 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 ![Microsoft Outlook](https://img.shields.io/badge/-Microsoft%20Outlook-black?style=for-the-badge&logo=Microsoft%20Outlook)
 
 <p align="center">
-<img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" />
+    <img src="Cheers.gif" />
 </p>
 
 <!---📫 How to reach me: ...
