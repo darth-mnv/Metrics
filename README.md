@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 📫 How to reach me: ...
 
@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+<p align="center">
+<img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" />
+</p>
 
+🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
+📺 [youtube][youtube] **|**
+🎥 [twitch][twitch] **|**
+📦 [npm][npm] **|**
+📷 [instagram][instagram] **|**
+👔 [linkedin][linkedin]
 
 [website]: https://mnvsm.pages.dev/
 [twitter]: https://github.com/
