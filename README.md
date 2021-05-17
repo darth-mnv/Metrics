@@ -1,4 +1,6 @@
-# Hi there 👋
+<p align="center">
+    <img src="Hello.gif" />
+</p>
 
 Welcome to my profile!<br/>
 I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
