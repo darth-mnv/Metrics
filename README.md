@@ -7,7 +7,7 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 
 - 🌐 Visit my website [here](https://mnvsm.pages.dev/)
 - 📫 How to reach me: [Email](mailto:Manav-SM@outlook.com)
-- 🎓 IT Engineering Graduate
+- 🎓 IT Engineering Graduate from [Shah and Anchor Kutchhi Engineering College](https://www.shahandanchor.com/home/)
 - 🏡 Based in Mumbai, India
 
 ## Technologies I have uses
@@ -21,6 +21,7 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry%20Pi)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=tableau)
 ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
+![Cloudflare](https://img.shields.io/badge/-cloudflare-black?style=for-the-badge&logo=cloudflare)
 ![Hugo](https://img.shields.io/badge/-Hugo-black?style=for-the-badge&logo=hugo)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=tableau)
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-black?style=for-the-badge&logo=Microsoft%20Word)
