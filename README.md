@@ -20,6 +20,7 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-mySQL-black?style=for-the-badge&logo=mySQL)
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry%20Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=arduino)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=tableau)
 ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
 ![Cloudflare](https://img.shields.io/badge/-cloudflare-black?style=for-the-badge&logo=cloudflare)
