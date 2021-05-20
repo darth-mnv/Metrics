@@ -31,7 +31,6 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=for-the-badge&logo=overleaf)
 ![Hugo](https://img.shields.io/badge/-Hugo-black?style=for-the-badge&logo=hugo)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=tableau)
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-black?style=for-the-badge&logo=Microsoft%20Word)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-black?style=for-the-badge&logo=Microsoft%20PowerPoint)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-black?style=for-the-badge&logo=Microsoft%20Excel)
