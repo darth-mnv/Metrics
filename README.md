@@ -6,7 +6,7 @@ Welcome to my profile!<br/>
 I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 
 - 🌐 Visit my [Website](https://mnvsm.pages.dev/)
-- 📬 Semd me an [Email](mailto:Manav-SM@outlook.com)
+- 📬 Send me an [Email](mailto:Manav-SM@outlook.com)
 - 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/manavsm/)
 - 🎓 IT Engineering Graduate from [Shah and Anchor Kutchhi Engineering College](https://www.shahandanchor.com/home/)
 - 🏡 Based in Mumbai, India
