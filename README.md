@@ -20,6 +20,8 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-mySQL-black?style=for-the-badge&logo=mySQL)
+![HTML5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)
 
 ### Software
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=arduino)
@@ -30,6 +32,7 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=for-the-badge&logo=overleaf)
 ![Hugo](https://img.shields.io/badge/-Hugo-black?style=for-the-badge&logo=hugo)
+![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=for-the-badge&logo=gatsby)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-black?style=for-the-badge&logo=Microsoft%20Word)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-black?style=for-the-badge&logo=Microsoft%20PowerPoint)
