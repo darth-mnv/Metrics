@@ -39,10 +39,6 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-black?style=for-the-badge&logo=Microsoft%20Excel)
 ![Microsoft Outlook](https://img.shields.io/badge/-Microsoft%20Outlook-black?style=for-the-badge&logo=Microsoft%20Outlook)
 
-### Metrics
-
-![Metrics](https://metrics.lecoq.io/Manav-SM?template=classic&languages=1&lines=1&pagespeed=1&achievements=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKolkata)
-
 <p align="center">
     <img src="Cheers.gif" />
 </p>
