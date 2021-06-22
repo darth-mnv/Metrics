@@ -43,8 +43,6 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai.
     <img src="Cheers.gif" />
 </p>
 
-![Metrics](https://github.com/Manav-SM/Manav-SM/blob/master/github-metrics.svg)
-
 <!---📫 How to reach me: ...
 
 **Manav-SM/Manav-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
