@@ -70,7 +70,7 @@ inputs:
   # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
   committer_token:
     description: GitHub Token used to commit metrics
-    default: ${{ secrets.GITHUB_TOKEN }}
+    default: ${{ secrets.METRICS }}
   
   # Branch used to commit rendered metrics
   committer_branch:
