@@ -44,7 +44,19 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai. I 
     <img src="Cheers.gif" />
 </p>-->
 
-<img src="github-metrics.svg" />
+<p align="center">
+    <img src="Hello.gif" />
+</p>
+
+
+<p align="center">
+<img src="github-metrics.svg"  alt="metric svg" class="center"/>
+</p>
+    
+    
+<p align="center">
+    <img src="Cheers.gif" />
+</p>
 
 <!---📫 How to reach me: ...
 
