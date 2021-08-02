@@ -38,6 +38,7 @@ jobs:
           plugin_licenses_legal: yes
           plugin_lines: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: .user.website
           plugin_habits: yes
           plugin_habits_days: 60
