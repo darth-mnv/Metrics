@@ -1,4 +1,8 @@
 <p align="center">
+    <img src="Hello.gif" />
+</p>
+
+<p align="center">
 <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 </p>
 
