@@ -31,7 +31,7 @@ jobs:
         uses: Manav-SM/metrics@latest
         with:
           filename: intro.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           template: classic
           base: ""
           plugin_stars: yes
@@ -48,7 +48,7 @@ jobs:
         uses: Manav-SM/metrics@latest
         with:
           filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           template: classic
           base: ""
           plugin_stars: yes
@@ -66,7 +66,7 @@ jobs:
         uses: Manav-SM/metrics@latest
         with:
           filename: languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           template: classic
           base: ""
           plugin_stars: yes
@@ -88,7 +88,7 @@ jobs:
         uses: Manav-SM/metrics@latest
         with:
           filename: website.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           template: classic
           base: ""
           plugin_stars: yes
@@ -106,7 +106,7 @@ jobs:
         uses: Manav-SM/metrics@latest
         with:
           filename: habit.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           template: classic
           base: ""
           config_padding: 13%
