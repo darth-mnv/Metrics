@@ -140,21 +140,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: year
           config_timezone: Asia/Kolkata        
-          
-  licenses-metrics:
-      runs-on: ubuntu-latest
-      steps:          
-        - name: licenses info
-          uses: Manav-SM/metrics@latest
-          with:
-            filename: licenses.svg
-            token: ${{ secrets.PERSONAL_TOKEN }}
-            template: classic
-            base: ""
-            config_padding: 13%
-            plugin_licenses: yes
-            plugin_licenses_setup: npm ci       # Command to setup target repository
-            plugin_licenses_ratio: yes          # Display used licenses ratio
-            plugin_licenses_legal: yes          # Display permissions, limitations and conditions
-            config_timezone: Asia/Kolkata
-

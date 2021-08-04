@@ -5,20 +5,20 @@
 <table align="center">
    <thead>
       <tr>
-         <th><img src="calender.svg"  alt="metric svg" class="center"/></th>
-         <th><img src="habit.svg"  alt="metric svg" class="center"/></th>
+         <th><img src="calender.svg"  alt="calender svg" class="center"/></th>
+         <th><img src="habit.svg"  alt="habit svg" class="center"/></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td><img src="achievements.svg"  alt="metric svg" class="center"/></td>
-         <td><img src=languages.svg"  alt="metric svg" class="center"/></td>
-         <td>data3</td>
+         <td><img src="achievements.svg"  alt="achievements svg" class="center"/></td>
+         <td><img src="languages.svg"  alt="languages svg" class="center"/></td>
       </tr>
+   </tbody>
+   <tbody>
       <tr>
-         <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
-         <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
-         <td>data13</td>
+         <td><img src="stars.svg"  alt="stars svg" class="center"/></td>
+         <td><img src="website.svg"  alt="website svg" class="center"/></td>
       </tr>
    </tbody>
 </table>
