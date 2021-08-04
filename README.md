@@ -1,3 +1,33 @@
+<p align="center">
+<img src="github-metrics.svg"  alt="metric svg" class="center"/>
+</p>
+
+<table align="center">
+   <thead>
+      <tr>
+         <th><img src="calender.svg"  alt="metric svg" class="center"/></th>
+         <th><img src="habit.svg"  alt="metric svg" class="center"/></th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><img src="achievements.svg"  alt="metric svg" class="center"/></td>
+         <td><img src=languages.svg"  alt="metric svg" class="center"/></td>
+         <td>data3</td>
+      </tr>
+      <tr>
+         <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
+         <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
+         <td>data13</td>
+      </tr>
+   </tbody>
+</table>
+
+
+<p align="center">
+    <img src="Cheers.gif" />
+</p>
+
 <!---<p align="center">
     <img src="Hello.gif" />
 </p>
@@ -44,19 +74,6 @@ I’m Manav Sandeep Mehta, an IT Engineering Graduate, Developer from Mumbai. I 
     <img src="Cheers.gif" />
 </p>-->
 
-<p align="center">
-    <img src="Hello.gif" />
-</p>
-
-
-<p align="center">
-<img src="github-metrics.svg"  alt="metric svg" class="center"/>
-</p>
-    
-    
-<p align="center">
-    <img src="Cheers.gif" />
-</p>
 
 <!---📫 How to reach me: ...
 
