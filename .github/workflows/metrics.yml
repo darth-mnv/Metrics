@@ -156,7 +156,8 @@ jobs:
             base: ""
             config_padding: 13%
             plugin_licenses: yes
-            plugin_licenses_legal: yes
-            plugin_lines: yes
+            plugin_licenses_setup: npm ci       # Command to setup target repository
+            plugin_licenses_ratio: yes          # Display used licenses ratio
+            plugin_licenses_legal: yes          # Display permissions, limitations and conditions
             config_timezone: Asia/Kolkata
 
