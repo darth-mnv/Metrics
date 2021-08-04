@@ -1,12 +1,12 @@
 <p align="center">
     <img src="Hello.gif" />
-    <br />
-    ![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=lightgreys)
 </p>
 
 <p align="center">
-<img src="github-metrics.svg"  alt="metric svg" class="center"/>
+    <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=lightgrey)
 
 <table align="center">
    <thead>
