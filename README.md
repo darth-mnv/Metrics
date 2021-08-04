@@ -1,5 +1,7 @@
 <p align="center">
     <img src="Hello.gif" />
+    <br />
+    ![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=lightgreys)
 </p>
 
 <p align="center">
