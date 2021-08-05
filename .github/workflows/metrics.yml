@@ -133,7 +133,7 @@ jobs:
           plugin_isocalendar_duration: year
           config_timezone: Asia/Kolkata        
           
-      - name: calender info
+      - name: skylinecalender info
         uses: Manav-SM/metrics@latest
         with:
            plugin_skyline: yes
