@@ -6,41 +6,35 @@
     <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 </p>-->
 
+<p align="center">
+    <img src="github-metrics.svg"  alt="metric svg" class="center"/>
+</p>
+
 <table align="center">
-   <thead>
-      <tr>
-         <td><img src="Hello.gif" />
-         <br />
-         </td>
-         <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
-      </tr>
-      <tr>
+   <tbody>
+       <tr>
          <td><img src="calender.svg"  alt="calender svg" class="center"/></td>
          <td><img src="languages.svg"  alt="languages svg" class="center"/></td>
       </tr>
-   </thead>
-   <tbody>
       <tr>
          <td><img src="achievements.svg"  alt="achievements svg" class="center"/></td>
          <td><img src="habit.svg"  alt="habit svg" class="center"/></td>
-      </tr>
-   </tbody>
-   <tbody>
-      <tr>
+       </tr>
+       <tr>
          <td><img src="stars.svg"  alt="stars svg" class="center"/></td>
          <td><img src="website.svg"  alt="website svg" class="center"/></td>
       </tr>
    </tbody>
 </table>
 
-<p align="center">
+<!---<p align="center">
 
 - 🌐 Visit my [Website](https://mnvsm.vercel.app/)
 - 💻 View my [HackerRank](https://www.hackerrank.com/manav_sm)
 - 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/manavsm/)
 
 
-<!---</p>
+</p>
 
 <p align="center">
 
