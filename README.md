@@ -31,6 +31,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=lightgrey)
 ![Linkedin](https://img.shields.io/badge/-manavsm-grey?style=social&logo=linkedin&logoColor=lightgrey&link=https://www.linkedin.com/in/manavsm/)
+<!---![Gmail Badge](https://img.shields.io/badge/-contact@rehkloos.com-grey?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@rehkloos.com)](mailto:contact@rehkloos.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav-SM&count_private=true&show_icons=true&theme=dark&include_all_commits=true)-->
+
 
 </p>
 
