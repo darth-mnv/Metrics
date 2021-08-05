@@ -1,22 +1,28 @@
 <!---<p align="center">
     <img src="Hello.gif" />
-</p>-->
+</p>
 
 <p align="center">
     <img src="github-metrics.svg"  alt="metric svg" class="center"/>
-</p>
+</p>-->
 
 <table align="center">
    <thead>
       <tr>
-         <th><img src="calender.svg"  alt="calender svg" class="center"/></th>
-         <th><img src="habit.svg"  alt="habit svg" class="center"/></th>
+         <td><img src="Hello.gif" />
+         <br />
+         </td>
+         <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
+      </tr>
+      <tr>
+         <td><img src="calender.svg"  alt="calender svg" class="center"/></td>
+         <td><img src="languages.svg"  alt="languages svg" class="center"/></td>
       </tr>
    </thead>
    <tbody>
       <tr>
          <td><img src="achievements.svg"  alt="achievements svg" class="center"/></td>
-         <td><img src="languages.svg"  alt="languages svg" class="center"/></td>
+         <td><img src="habit.svg"  alt="habit svg" class="center"/></td>
       </tr>
    </tbody>
    <tbody>
@@ -29,12 +35,20 @@
 
 <p align="center">
 
+- 🌐 Visit my [Website](https://mnvsm.vercel.app/)
+- 💻 View my [HackerRank](https://www.hackerrank.com/manav_sm)
+- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/manavsm/)
+
+
+<!---</p>
+
+<p align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=lightgrey)
 ![Linkedin](https://img.shields.io/badge/-manavsm-grey?style=social&logo=linkedin&logoColor=lightgrey&link=https://www.linkedin.com/in/manavsm/)
 <!---![Gmail Badge](https://img.shields.io/badge/-contact@rehkloos.com-grey?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@rehkloos.com)](mailto:contact@rehkloos.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav-SM&count_private=true&show_icons=true&theme=dark&include_all_commits=true)-->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav-SM&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
 </p>
 
@@ -43,7 +57,7 @@
     <img src="Cheers.gif" />
 </p>
 
-<!---<p align="center">
+<p align="center">
     <img src="Hello.gif" />
 </p>
 
