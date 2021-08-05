@@ -81,9 +81,10 @@ jobs:
           plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           plugin_languages_threshold: 0%                               # Hides all languages less than 2%
-          plugin_languages_limit: 8                                     # Display up to 8 languages
+          plugin_languages_limit: 10                                     # Display up to 10 languages
           plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
           plugin_languages_indepth: yes                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_recent_load: 1500
           config_timezone: Asia/Kolkata
 
   website-metrics:
@@ -117,6 +118,7 @@ jobs:
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
+          plugin_gists: yes
           config_timezone: Asia/Kolkata
           
   calendar-metrics:
@@ -130,5 +132,5 @@ jobs:
           template: classic
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: year
+          plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata        
