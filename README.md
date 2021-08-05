@@ -1,12 +1,10 @@
-<p align="center">
+<!---<p align="center">
     <img src="Hello.gif" />
-</p>
+</p>-->
 
 <p align="center">
     <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=lightgrey)
 
 <table align="center">
    <thead>
@@ -28,6 +26,13 @@
       </tr>
    </tbody>
 </table>
+
+<p align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=lightgrey)
+![Linkedin](https://img.shields.io/badge/-manavsm-grey?style=social&logo=linkedin&logoColor=lightgrey&link=https://www.linkedin.com/in/manavsm/)
+
+</p>
 
 
 <p align="center">
