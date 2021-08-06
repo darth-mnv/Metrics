@@ -28,7 +28,7 @@
 </table>
 
 [![Metrics](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml/badge.svg)](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=brightgreen)
 <!---<p align="center">
 
 - 🌐 Visit my [Website](https://mnvsm.vercel.app/)
