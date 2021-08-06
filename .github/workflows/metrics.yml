@@ -132,7 +132,7 @@ jobs:
           template: classic
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: year
           config_timezone: Asia/Kolkata        
           
   explore-gitactions:
