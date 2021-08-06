@@ -1212,7 +1212,7 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 140 edited files from 153 commits
+            estimation from 140 edited files from 154 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1265,7 +1265,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 30 edited files from 52 commits over last 4 days
+            estimation from 30 edited files from 53 commits over last 4 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
