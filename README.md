@@ -27,6 +27,8 @@
    </tbody>
 </table>
 
+[![Metrics](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml/badge.svg)](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml)
+
 <!---<p align="center">
 
 - 🌐 Visit my [Website](https://mnvsm.vercel.app/)
