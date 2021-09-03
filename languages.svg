@@ -1212,16 +1212,16 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 141 edited files from 165 commits
+            estimation from 141 edited files from 166 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.28272008371914" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="393.28272008371914" y="0" width="64.41026349823775" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="457.6929835819569" y="0" width="2.3070164180430637" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.4220663428667" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="393.4220663428667" y="0" width="64.2757356925411" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.6978020354078" y="0" width="2.3021979645921795" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1231,8 +1231,8 @@
                       JS
                     </div>
                             <small>
-                                <div>86.6 kB</div>
-                                <div>85.5%</div>
+                                <div>86.8 kB</div>
+                                <div>85.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1254,7 +1254,7 @@
                     </div>
                             <small>
                                 <div>14.1 kB</div>
-                                <div>14%</div>
+                                <div>13.97%</div>
                             </small>
                         </div>
                     </section>
@@ -1265,7 +1265,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 4 edited files from 3 commits over last 9 days
+            estimation from 6 edited files from 4 commits over last 9 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1282,7 +1282,7 @@
                       JS
                     </div>
                             <small>
-                                <div>5.02 kB</div>
+                                <div>5.24 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
