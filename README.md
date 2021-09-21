@@ -10,7 +10,7 @@
    <tbody>
        <tr>
            <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
-           <td><img src="achievements.svg"  alt="achievements svg" class="center"/></td>
+           <td><img src="habit.svg"  alt="habit svg" class="center"/></td>
        </tr>
        <tr>
          <td><img src="calender.svg"  alt="calender svg" class="center"/></td>
@@ -18,7 +18,7 @@
        </tr>
        <tr>
          <td><img src="website.svg"  alt="website svg" class="center"/></td>
-         <td><img src="habit.svg"  alt="habit svg" class="center"/></td>
+         <td><img src="achievements.svg"  alt="achievements svg" class="center"/></td>
        </tr>
    </tbody>
 </table>
