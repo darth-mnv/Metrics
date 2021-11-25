@@ -19,8 +19,11 @@
          <td><img src="languages.svg"  alt="languages svg" class="center"/></td>
        </tr>
        <tr>
-         <td><img src="website.svg"  alt="website svg" class="center"/></td>
+         <td><img src="stars.svg"  alt="stars svg" class="center"/></td>
          <td><img src="achievements.svg"  alt="achievements svg" class="center"/></td>
+       </tr>
+       <tr>
+         <td><img src="website.svg"  alt="website svg" class="center"/></td>
        </tr>
    </tbody>
 </table>
