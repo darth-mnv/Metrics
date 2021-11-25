@@ -1,10 +1,12 @@
-<!---<p align="center">
+<p align="center">
     <img src="Hello.gif" />
 </p>
 
-<p align="center">
+<!---<p align="center">
     <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 </p>-->
+
+<details align="center"><summary>View my Github insights</summary>
 
 <table align="center">
    <tbody>
@@ -22,7 +24,11 @@
        </tr>
    </tbody>
 </table>
+</details>
 
+<p align="center">
+    <img src="Cheers.gif" />
+</p>
 <!---[![Metrics](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml/badge.svg)](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml)
 ![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=brightgreen)-->
 <!---<p align="center">
