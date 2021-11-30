@@ -6,7 +6,10 @@
     <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 </p>-->
 
-<details align="center"><summary>View my Github insights</summary>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Manav-SM" alt="Manav-SM" /> </p>
+
+<details align="center">
+    <summary>View my Github insights</summary>
 
 <table align="center">
    <tbody>
