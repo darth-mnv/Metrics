@@ -84,7 +84,7 @@ jobs:
           plugin_languages_limit: 10                                     # Display up to 10 languages
           plugin_languages_sections: most-used          # Display most used and recently used languages stats
           plugin_languages_indepth: yes                                  # Get indepth stats (see documentation before enabling)
-          plugin_languages_recent_load: 1500
+          plugin_languages_recent_load: 500
           config_timezone: Asia/Kolkata
 
   website-metrics:
