@@ -142,7 +142,7 @@ jobs:
   
   recent-metrics:
     runs-on: ubuntu-latest
-      steps:  
+    steps:  
         - name: Recent Metrics
           uses: lowlighter/metrics@latest
           with:
