@@ -126,7 +126,34 @@ jobs:
           plugin_habits_trim: yes       # Trim unused hours on daily chart
           plugin_gists: yes
           config_timezone: Asia/Kolkata
-          
+         
+  
+  follow-up-metrics:
+    runs-on: ubuntu-latest
+    steps:  
+        - name: Indepth analysis
+          uses: lowlighter/metrics@latest
+          with:
+              filename: metrics.plugin.followup.indepth.svg
+              token: ${{ secrets.PERSONAL_TOKEN }}
+              base: ""
+              plugin_followup: yes
+              plugin_followup_indepth: yes
+  
+  recent-metrics:
+    runs-on: ubuntu-latest
+      steps:  
+        - name: Recent Metrics
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.activity.svg
+            token: ${{ secrets.PERSONAL_TOKEN }}
+            base: ""
+            plugin_activity: yes
+            plugin_activity_limit: 10
+            plugin_activity_days: 0
+            plugin_activity_filter: issue, pr, release, fork, review, ref/create
+ 
   calendar-metrics:
     runs-on: ubuntu-latest
     steps:          
