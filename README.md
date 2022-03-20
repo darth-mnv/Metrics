@@ -32,21 +32,21 @@
         <td><img src="website.svg"  alt="website svg" class="center"/></td>
        </tr>
    </tbody>
-</table>-->
-<p align="center">
+</table>
+<!---<p align="center">
 <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 <img src="habit.svg"  alt="habit svg" class="center"/>
 <img src="website.svg"  alt="website svg" class="center"/>
 <img src="languages.svg"  alt="languages svg" class="center"/>
 <img src="stars.svg"  alt="stars svg" class="center"/>
 <img src="metrics.plugin.activity.svg"  alt="metrics svg" class="center"/>
-<img src="achievements.svg"  alt="achievements svg" class="center"/>
+<img src="achievements.svg"  alt="achievements svg" class="center"/>-->
 <!---</details>-->
-</p>
+<!---</p>
 
 <p align="center">
     <img src="Cheers.gif" />
-</p>
+</p>-->
 <!---[![Metrics](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml/badge.svg)](https://github.com/Manav-SM/Manav-SM/actions/workflows/metrics.yml)
 ![Profile Views](https://komarev.com/ghpvc/?username=Manav-SM&color=brightgreen)-->
 <!---<p align="center">
