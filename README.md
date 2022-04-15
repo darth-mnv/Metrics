@@ -12,23 +12,22 @@
     <summary>View my Github insights</summary>-->
 
 
-<!---<table align="center">
+<table align="center">
    <tbody>
        <tr>
            <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
            <td><img src="habit.svg"  alt="habit svg" class="center"/></td>
        </tr>
        <tr>
-         <td><img src="website.svg"  alt="website svg" class="center"/></td>
         <td><img src="calender.svg"  alt="calender svg" class="center"/></td>
          <td><img src="languages.svg"  alt="languages svg" class="center"/></td>
        </tr>
        <tr>
-         <td><img src="stars.svg"  alt="stars svg" class="center"/></td>
          <td><img src="metrics.plugin.activity.svg"  alt="metrics svg" class="center"/></td>
          <td><img src="achievements.svg"  alt="achievements svg" class="center"/></td>
        </tr>
        <tr>
+        <td><img src="stars.svg"  alt="stars svg" class="center"/></td>
         <td><img src="website.svg"  alt="website svg" class="center"/></td>
        </tr>
    </tbody>
