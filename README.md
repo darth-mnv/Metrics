@@ -12,7 +12,7 @@
     <summary>View my Github insights</summary>-->
 
 
-<table align="center">
+<!---<table align="center">
    <tbody>
        <tr>
            <td><img src="github-metrics.svg"  alt="metric svg" class="center"/></td>
@@ -31,7 +31,21 @@
         <td><img src="website.svg"  alt="website svg" class="center"/></td>
        </tr>
    </tbody>
-</table>
+</table>-->
+
+<p align="center">
+<img src="github-metrics.svg"  alt="metric svg" class="center"/>
+<img src="habit.svg"  alt="habit svg" class="center"/>
+<img src="calender.svg"  alt="calender svg" class="center"/>
+<img src="languages.svg"  alt="languages svg" class="center"/>
+<img src="metrics.plugin.activity.svg"  alt="metrics svg" class="center"/>
+<img src="stars.svg"  alt="stars svg" class="center"/>
+<img src="website.svg"  alt="website svg" class="center"/>
+<img src="achievements.svg"  alt="achievements svg" class="center"/>
+</p>
+    
+
+        
 <!---<p align="center">
 <img src="github-metrics.svg"  alt="metric svg" class="center"/>
 <img src="habit.svg"  alt="habit svg" class="center"/>
