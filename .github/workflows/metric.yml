@@ -175,7 +175,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
@@ -201,7 +201,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.followup.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
