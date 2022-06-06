@@ -190,10 +190,9 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_starlists: yes
-          plugin_starlists_limit: 0
+          plugin_starlists_limit: 100
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 12
-          plugin_starlists_only: Misc, Resources, Data Science, NextJs, Open Source Projects, Svelte, GO Lang, Gatsby
 
   followup-indepth:
     runs-on: ubuntu-latest
