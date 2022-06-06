@@ -43,7 +43,7 @@
 <img src="website.svg"  alt="website svg" class="center"/>
 <img src="achievements.svg"  alt="achievements svg" class="center"/>
 <img src="metrics.plugin.starlists.languages.svg"  alt="metrics.plugin.starlists.languages svg" class="center"/>
-<img src="metrics.plugin.calendar.full.svg"  alt="metrics.plugin.calendar.full svg" class="center"/>
+<img src="metrics.plugin.calendar.svg"  alt="metrics.plugin.calendar svg" class="center"/>
 <img src="metrics.plugin.topics.icons.svg"  alt="metrics.plugin.topics.icons svg" class="center"/>
 <img src="metrics.plugin.followup.indepth.svg"  alt="metrics.plugin.followup.indepth svg" class="center"/>
 <img src="metrics.plugin.activity.svg"  alt="metrics.plugin.activity svg" class="center"/>
