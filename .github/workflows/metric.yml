@@ -167,3 +167,54 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           config_timezone: Asia/Kolkata        
+
+  full-calender-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+  starlists:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Featured star list languages
+        uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.starlists.languages.svg
+            token: NOT_NEEDED
+            base: ""
+            plugin_starlists: yes
+            plugin_starlists_languages: yes
+            plugin_starlists_limit_languages: 12
+            plugin_starlists_limit_repositories: 0
+
+  followup-indepth:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
+  icons:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
